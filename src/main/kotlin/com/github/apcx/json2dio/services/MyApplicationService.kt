@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.apcx.json2dio.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.apcx.json2dio.MyBundle
 
 class MyApplicationService {
 
